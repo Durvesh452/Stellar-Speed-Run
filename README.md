@@ -154,3 +154,9 @@ stellar-speed-run/
 ## ⚖️ License
 
 MIT — free to use, fork, and learn from.
+
+---
+
+## 👥 Authors
+
+- **Durvesh** — [@Durvesh452](https://github.com/Durvesh452)

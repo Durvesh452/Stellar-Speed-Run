@@ -2,6 +2,7 @@
   "name": "stellar",
   "private": true,
   "version": "0.0.0",
+  "author": "Durvesh",
   "type": "module",
   "scripts": {
     "dev": "vite",
