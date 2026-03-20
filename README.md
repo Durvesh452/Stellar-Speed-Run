@@ -93,13 +93,13 @@ npm run build
 ## 📸 Screenshots
 
 ### Wallet Connected
-![Wallet Connected](./screenshots/wallet_connected.png)
+![Wallet Connected](./public/screenshots/wallet_connected.png)
 
 ### Balance Displayed
-![Balance Displayed](./screenshots/balance_display.png)
+![Balance Displayed](./public/screenshots/balance_display.png)
 
 ### Successful Transaction
-![Transaction Success](./screenshots/transaction_success.png)
+![Transaction Success](./public/screenshots/transaction_success.png)
 
 ---
 
