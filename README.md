@@ -1,4 +1,5 @@
 # Stellar Speed-Run 🚀⭐
+**Author: Durvesh**
 
 A **proof-of-humanity game** built on the Stellar Testnet. Catch 5 moving golden stars to prove you're human, and receive **10 XLM** instantly on Stellar Testnet.
 
